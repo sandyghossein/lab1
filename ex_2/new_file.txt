@@ -1,1 +1,2 @@
 hello worldhello world
+Another line in new_file.txt
